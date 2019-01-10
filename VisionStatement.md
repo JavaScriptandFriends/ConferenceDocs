@@ -1,0 +1,19 @@
+# Vision Statement
+
+## Who are we?
+The JavaScript and Friends Conference (JS&Friends) is a not-for-profit conference, organized by a team of volunteers.
+We are all active or aspiring software professionals, and we are excited to bring together a diverse group of JavaScript enthusiasts
+and friends to learn and network. With this conference, we want to contribute to the cultivation of a welcoming, inclusive, and
+dynamic tech scene throughout the midwestern United States, and beyond!
+
+## Who should attend?
+JS&Friends is for everyone. If you are interested in JavaScript or topics related to JavasScript, this conference is for you!
+Whether you are a seasoned professional, a bootcamp or college student, a self-taught dev, or anywhere in between,
+this conference is for you!
+
+## Where is my money going?
+Proceeds from JS&Friends will be used to help cultivate the developer community in the Midwestern United States and beyond.
+Since this is our first year, this could mean putting the money into expanded speaker and attendee benefits and outreach for next year.
+It could mean helping aspiring programmers through bootcamp scholarships.
+It could mean sponsoring local Meetup groups around JavaScript and related technologies.
+We’re excited about the possibilities, and we welcome your input!
